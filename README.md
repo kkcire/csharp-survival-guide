@@ -4,8 +4,8 @@ Repositório de estudos em C# e .NET.
 
 ## Estrutura
 
-- `livros/` — exercícios e anotações de livros
-- `projetos/` — projetos práticos desenvolvidos durante os estudos
+- [books/](./books/) — exercícios e anotações de livros
+- [projects/](./projects/) — projetos práticos desenvolvidos durante os estudos
 
 ## Livros
 
