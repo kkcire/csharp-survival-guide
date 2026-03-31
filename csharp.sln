@@ -4,9 +4,9 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "livros", "livros", "{1E8A80CB-C8F1-7F1F-17DF-81F1942C64F8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp-dotnet8", "csharp-dotnet8", "{91C77CB7-1D87-B78D-03E6-C7BE949FF279}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cs12dotnet8", "cs12dotnet8", "{91C77CB7-1D87-B78D-03E6-C7BE949FF279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap02_datatypes", "livros\csharp-dotnet8\cap02_datatypes\cap02_datatypes.csproj", "{FDBF5C3F-E187-C062-9ADA-C40C4A76C08E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap02_datatypes", "livros\cs12dotnet8\cap02_datatypes\cap02_datatypes.csproj", "{FDBF5C3F-E187-C062-9ADA-C40C4A76C08E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
