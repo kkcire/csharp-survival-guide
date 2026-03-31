@@ -9,4 +9,4 @@ Repositório de estudos em C# e .NET.
 
 ## Livros
 
-- [C# 12 and .NET 8 - Modern Cross-Platform Development](livros/csharp-dotnet8/) — Mark J. Price
+- [C# 12 and .NET 8 - Modern Cross-Platform Development](books/cs12dotnet8/) — Mark J. Price
