@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktLibraryNetStandard2", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleApp", "PeopleApp\PeopleApp.csproj", "{42AD8F91-0116-4BDE-9573-EE6F9D92889C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktLibraryModern", "PacktLibraryModern\PacktLibraryModern.csproj", "{886477E2-61F8-4E58-AA05-03393A09EB98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{42AD8F91-0116-4BDE-9573-EE6F9D92889C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42AD8F91-0116-4BDE-9573-EE6F9D92889C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42AD8F91-0116-4BDE-9573-EE6F9D92889C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886477E2-61F8-4E58-AA05-03393A09EB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886477E2-61F8-4E58-AA05-03393A09EB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886477E2-61F8-4E58-AA05-03393A09EB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886477E2-61F8-4E58-AA05-03393A09EB98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
